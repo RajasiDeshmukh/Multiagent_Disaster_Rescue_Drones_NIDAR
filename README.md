@@ -1,5 +1,7 @@
 # Multiagent_Disaster_Rescue_Drones_NIDAR
 
+> ⚠️ Note: This repository contains selected modules of a larger UAV perception and geotagging pipeline developed for the NIDAR competition. Some components are withheld due to an ongoing research publication.
+
 ## Abstract
 
 Flood-affected environments impose significant constraints on rapid human localization and relief delivery due to damaged infrastructure, dynamic terrain, and limited situational awareness. This work presents a fully autonomous multi-drone system for real-time human detection, geolocation, and targeted parcel delivery in flood disaster scenarios.
